@@ -3,5 +3,26 @@
   "heroku": {
      "install" : [ "./..." ],
      "goVersion": "go1.7"
-   }
+   },
+  "package": [
+    {
+      "path": "github.com/codahale/chacha20"
+    },
+    "package": [
+    {
+      "path": "golang.org/x/crypto/salsa20"
+    },
+    "package": [
+    {
+      "path": "github.com/getlantern/netx"
+    },
+    "package": [
+    {
+      "path": "github.com/gorilla/websocket"
+    },
+    "package": [
+    {
+      "path": "github.com/yinqiwen/gotoolkit/ots"
+    }
+  ]
 }
