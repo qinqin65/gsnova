@@ -1,7 +1,7 @@
 {
-  "rootPath": "github.com/qinqin65/gsnova/github.com/yinqiwen/gsnova/remote/paas",
+  "rootPath": "github.com/yinqiwen/gsnova",
   "heroku": {
-     "install" : [ "github.com/qinqin65/gsnova/github.com/yinqiwen/gsnova/remote/paas/main.go" ],
+     "install" : [ "github.com/yinqiwen/gsnova/remote/paas/main.go" ],
      "goVersion": "go1.7"
    },
   "package": [
