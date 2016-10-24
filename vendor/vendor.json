@@ -1,5 +1,5 @@
 {
-  "rootPath": "github.com/qinqin65/gsnova/github.com/yinqiwen/gsnova",
+  "rootPath": "github.com/qinqin65/gsnova/github.com/yinqiwen/gsnova/remote/paas",
   "heroku": {
      "install" : [ "./.." ],
      "goVersion": "go1.7"
