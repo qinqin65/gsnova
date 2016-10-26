@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/yinqiwen/gsnova/common/event"
-	"github.com/yinqiwen/gsnova/common/helper"
-	"github.com/yinqiwen/gsnova/common/logger"
+	"github.com/qinqin65/gsnova/common/event"
+	"github.com/qinqin65/gsnova/common/helper"
+	"github.com/qinqin65/gsnova/common/logger"
 )
 
 type EncryptConfig struct {

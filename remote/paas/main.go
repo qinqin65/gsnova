@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/yinqiwen/gotoolkit/ots"
-	"github.com/yinqiwen/gsnova/remote"
+	"github.com/qinqin65/gsnova/remote"
 )
 
 // hello world, the web server
@@ -70,8 +70,8 @@ const html = `
 <body>
   <div id="container">
 
-    <h1><a href="http://github.com/yinqiwen/gsnova">GSnova</a>
-      <span class="small">by <a href="http://twitter.com/yinqiwen">@yinqiwen</a></span></h1>
+    <h1><a href="http://github.com/qinqin65/gsnova">GSnova</a>
+      <span class="small">by <a href="http://twitter.com/qinqin65">@qinqin65</a></span></h1>
 
     <div class="description">
       Welcome to use GSnova PAAS Server ${Version}!
@@ -80,11 +80,11 @@ const html = `
 	<h2>Code</h2>
     <p>You can clone the project with <a href="http://git-scm.com">Git</a>
       by running:
-      <pre>$ git clone git://github.com/yinqiwen/gsnova.git</pre>
+      <pre>$ git clone git://github.com/qinqin65/gsnova.git</pre>
     </p>
 
     <div class="footer">
-      get the source code on GitHub : <a href="http://github.com/yinqiwen/gsnova">yinqiwen/gsnova</a>
+      get the source code on GitHub : <a href="http://github.com/qinqin65/gsnova">qinqin65/gsnova</a>
     </div>
 
   </div>

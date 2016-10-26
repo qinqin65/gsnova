@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yinqiwen/gsnova/common/event"
+	"github.com/qinqin65/gsnova/common/event"
 )
 
 type ConnEventQueue struct {

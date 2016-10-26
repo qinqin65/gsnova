@@ -12,7 +12,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/yinqiwen/gsnova/common/event"
+	"github.com/qinqin65/gsnova/common/event"
 )
 
 var proxySessionMap map[SessionId]*ProxySession = make(map[SessionId]*ProxySession)

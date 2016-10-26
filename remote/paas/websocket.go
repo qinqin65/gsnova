@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/yinqiwen/gsnova/common/event"
-	"github.com/yinqiwen/gsnova/remote"
+	"github.com/qinqin65/gsnova/common/event"
+	"github.com/qinqin65/gsnova/remote"
 )
 
 var (

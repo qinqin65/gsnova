@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yinqiwen/gsnova/common/event"
-	"github.com/yinqiwen/gsnova/common/helper"
-	"github.com/yinqiwen/gsnova/remote"
+	"github.com/qinqin65/gsnova/common/event"
+	"github.com/qinqin65/gsnova/common/helper"
+	"github.com/qinqin65/gsnova/remote"
 )
 
 func handleRequestBody(r *http.Request, ctx *remote.ConnContext) ([]event.Event, error) {
