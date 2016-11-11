@@ -1,0 +1,35 @@
+{
+	"ImportPath": "github.com/qinqin65/gsnova",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v75",
+	"Packages": [
+		"./remote/paas"
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/codahale/chacha20",
+			"Rev": "ec07b4f69a3f70b1dd2a8ad77230deb1ba5d6953"
+		},
+		{
+			"ImportPath": "github.com/getlantern/netx",
+			"Rev": "70375a276c57e76c1fe1e2fbdb4c2d2714a67b39"
+		},
+		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Comment": "v1.0.0-37-g9fbf129",
+			"Rev": "9fbf129ff2a3cf2467f7d0021de2eb4d3aecc109"
+		},
+		{
+			"ImportPath": "github.com/yinqiwen/gotoolkit/ots",
+			"Rev": "6fafc946d6e5098d82fd05592d1bb554b747031e"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/salsa20",
+			"Rev": "9477e0b78b9ac3d0b03822fd95422e2fe07627cd"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/salsa20/salsa",
+			"Rev": "9477e0b78b9ac3d0b03822fd95422e2fe07627cd"
+		}
+	]
+}
